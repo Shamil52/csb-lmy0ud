@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shamil52.github.io/csb-lmy0ud/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://shamil52.github.io/csb-lmy0ud/static/js/main.3af33070.chunk.js",
+    "main.js.map": "https://shamil52.github.io/csb-lmy0ud/static/js/main.3af33070.chunk.js.map",
+    "runtime-main.js": "https://shamil52.github.io/csb-lmy0ud/static/js/runtime-main.36f64dcf.js",
+    "runtime-main.js.map": "https://shamil52.github.io/csb-lmy0ud/static/js/runtime-main.36f64dcf.js.map",
+    "static/js/2.ef7de88a.chunk.js": "https://shamil52.github.io/csb-lmy0ud/static/js/2.ef7de88a.chunk.js",
+    "static/js/2.ef7de88a.chunk.js.map": "https://shamil52.github.io/csb-lmy0ud/static/js/2.ef7de88a.chunk.js.map",
+    "index.html": "https://shamil52.github.io/csb-lmy0ud/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://shamil52.github.io/csb-lmy0ud/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ef7de88a.chunk.js.LICENSE.txt": "https://shamil52.github.io/csb-lmy0ud/static/js/2.ef7de88a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36f64dcf.js",
+    "static/js/2.ef7de88a.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.3af33070.chunk.js"
+  ]
+}
